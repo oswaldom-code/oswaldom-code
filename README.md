@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oswaldo Montaño</h1>
-<h3 align="center">A passionate mobile developer from Venezuela</h3>
+<h3 align="center">Passionate about programming</h3>
 
-- 🔭 I’m currently working on **Bicentenario Bank**
+- 🔭 I’m currently working on **TUTREE Inc**
 
-- 🌱 I’m currently learning **Flutter / Dart**
+- 🌱 I’m currently learning **Rust / Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/oswaldom-code](https://github.com/oswaldom-code)
 
-- 📝 I regularly write articles on [https://oswaldom-code.medium.com/](https://oswaldom-code.medium.com/)
-
-- 💬 Ask me about **Java, Python, Go, C++, C, Visual Basic**
+- 📝 Sometimes i write on [https://oswaldom-code.medium.com/](https://oswaldom-code.medium.com/)
 
 - 📫 How to reach me **oswaldoeliezer876@gmail.com**
 
