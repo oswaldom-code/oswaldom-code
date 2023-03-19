@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oswaldo Montaño</h1>
 <h3 align="center">Passionate about programming</h3>
 
-- 🔭 I’m currently working on **Proaplicaciones*
+- 🔭 I’m currently working on **Proaplicaciones**
 
 - 🌱 I’m currently learning **Ruby**
 
