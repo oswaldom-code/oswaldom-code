@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oswaldo Montaño</h1>
 <h3 align="center">Passionate about programming</h3>
 
-- 🔭 I’m currently working on **TUTREE Inc**
+- 🔭 I’m currently working on **Proaplicaciones*
 
-- 🌱 I’m currently learning **Rust / Golang**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/oswaldom-code](https://github.com/oswaldom-code)
 
