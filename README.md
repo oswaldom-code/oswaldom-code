@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/17863301?s=400&u=b2dec91d6774ae1845d2cb9ae03d956988acfe82&v=4" />
    <h3 align="center">¡Hey 👋!  Oswaldo Montaño 👨🏻‍💻</h3>
 </p>
 <div align="center">
