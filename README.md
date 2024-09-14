@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/17863301?s=400&u=b2dec91d6774ae1845d2cb9ae03d956988acfe82&v=4" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/17863301?s=400&u=b2dec91d6774ae1845d2cb9ae03d956988acfe82&v=4" style="max-width: 100%;border-radius: 100%;"/>
    <h3 align="center">¡Hey 👋!  Oswaldo Montaño 👨🏻‍💻</h3>
 </p>
 <div align="center">
