@@ -13,3 +13,6 @@
 - [Migrando de MySQL a PostgreSQL con pgloader y Docker](https://oswaldom-code.medium.com/migrando-de-mysql-a-postgresql-con-pgloader-y-docker-ca64d894391b)
 - [Entendiendo y Resolviendo Problemas de Intercambio Accidental de Memoria en Bucles “For” en Go 1.22](https://oswaldom-code.medium.com/entendiendo-y-resolviendo-problemas-de-compartici%C3%B3n-en-bucles-for-en-go-1-22-06c22a385e4b)
 - [Extracción automatizada de información del CNE usando Python](https://oswaldom-code.medium.com/scraping-al-cne-con-python-d2388c6eba1b)
+
+### </> Contribuciones de Código Abierto
+- [samber/lo:  feat: Implement ChunkMap Function (#533)](https://github.com/samber/lo/pull/538)
