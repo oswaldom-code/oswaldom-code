@@ -16,3 +16,4 @@
 
 ### </> Contribuciones de Código Abierto
 - [samber/lo:  feat: Implement ChunkMap Function (#533)](https://github.com/samber/lo/pull/538)
+- [samber/lo:  docs: add play link for ChunkEntries example in README (#600)](https://github.com/samber/lo/pull/600)
